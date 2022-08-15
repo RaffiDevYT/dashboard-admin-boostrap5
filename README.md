@@ -15,7 +15,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/SoengSouy/dmin_dashbaord_v18_html_css_js_bootstap5.git
+git remote add origin https://github.com/RaffiDevYT/dashboard-admin-bostrap.git
 git branch -M main
 git push -uf origin main
 ```
