@@ -1,6 +1,6 @@
-# dmin_dashbaord_v18_html_css_js_bootstap5
+# dashboard admin boostrap5
 
-dmin_dashbaord_v18_html_css_js_bootstap5
+dashboard admin boostrap5
 
 ## Getting started
 
